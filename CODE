@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>BOOTCAMP SANTANDER</title>
+
+</head>
+
+<body>
+
+  <h1>Bootcamp Santander - Módulo 1</h1>
+
+  <h2>Sumário</h2>
+
+  <ul>
+
+    <li><a href="#introducao">Introdução ao HTML na prática</a></li>
+
+    <li><a href="#estruturando">Trabalhando com formulários </a></li>
+
+    <li><a href="#formatacoes">Estruturando seu HTML + Formatações</a></li>
+
+    <li><a href="#midias">Trabalhando com mídias utilizando o HTML</a></li>
+
+    <li><a href="#tabelas">Criando tabelas com, HTML</a></li>
+
+    <li><a href="#semantica">Entendendo o HTML semântico</a></li>
+
+
+
+  </ul>
+
+  <h2 id="introducao">Introdução ao HTML na prática</h2>
+
+  <p>O <strong><mark>HTML</mark></strong> é a linguagem de marcação utilizada para criar páginas web. Ele é composto por uma série de elementos que definem a estrutura e o conteúdo de uma página. Cada elemento é representado por uma tag, que pode conter atributos para fornecer informações adicionais.</p>
+
+  <h2 id="estruturando">Trabalhando com formulários</h2>
+
+  <p>Os formulários são usados para coletar informações dos usuários. Eles podem conter diversos tipos de campos, como campos de texto, caixas de seleção, botões de rádio e muito mais. Para criar um formulário, utilizamos a tag <form>, que pode conter outros elementos para definir os campos do formulário.</p>
+
+  <h2 id="formatacoes">Estruturando seu HTML + Formatações</h2>
+
+  <p>Além de estruturar o conteúdo, o HTML também permite aplicar formatações para melhorar a aparência da página. Podemos usar tags como <b> para negrito, <i> para itálico e <u> para sublinhado. Além disso, podemos utilizar CSS para personalizar ainda mais o estilo da página.</p>
+
+  <h2 id="midias">Trabalhando com mídias utilizando o HTML</h2>
+
+  <p>O HTML também suporta a incorporação de mídias, como imagens, áudio e vídeo. Para inserir uma imagem, utilizamos a tag <img>, que requer o atributo src para especificar o caminho da imagem. Para incorporar áudio e vídeo, podemos usar as tags <audio> e <video>, respectivamente, que também possuem atributos para controlar a reprodução.</p>
+
+  <h2 id="tabelas">Criando tabelas com, HTML</h2>
+
+  <p>As tabelas são utilizadas para organizar e apresentar dados em uma estrutura de linhas e colunas. Para criar uma tabela, utilizamos a tag <table>, que pode conter outras tags como <thead>, <tbody> e <tfoot> para definir a estrutura da tabela.</p> 
+
+  <h2 id="semantica">Entendendo o HTML semântico</h2>
+
+  <p>O HTML semântico é uma abordagem que utiliza tags específicas para descrever o significado do conteúdo. Por exemplo, em vez de usar uma tag genérica como <div> para um cabeçalho, podemos usar a tag <header>, que indica que o conteúdo é um cabeçalho. Isso torna o código mais legível e acessível, além de melhorar a SEO da página.</p>    
+
+  
+
+</body>
+
+</html>
